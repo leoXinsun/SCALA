@@ -1,0 +1,4 @@
+The Test Error applying Decision Trees for Classification = 0.9710982658959537
+The RMSE applying Decision Trees for Regression = 0.19319530798283413
+The RMSE applying Logistic Regression = 1.222875848580085
+The training time is 110.153395547s

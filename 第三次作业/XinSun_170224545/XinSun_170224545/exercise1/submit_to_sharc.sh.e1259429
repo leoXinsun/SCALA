@@ -1,0 +1,90 @@
+18/05/18 21:40:39 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/05/18 21:40:40 WARN SparkConf: In Spark 1.0 and later spark.local.dir will be overridden by the value set by the cluster manager (via SPARK_LOCAL_DIRS in mesos/standalone and LOCAL_DIRS in YARN).
+18/05/18 21:40:55 WARN TaskSetManager: Stage 2 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:40:58 WARN TaskSetManager: Stage 4 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:40:58 WARN RowMatrix: The input data is not directly cached, which may hurt performance if its parent RDDs are also uncached.
+18/05/18 21:40:58 WARN ARPACK: Failed to load implementation from: com.github.fommil.netlib.NativeSystemARPACK
+18/05/18 21:40:58 WARN ARPACK: Failed to load implementation from: com.github.fommil.netlib.NativeRefARPACK
+18/05/18 21:40:58 WARN TaskSetManager: Stage 5 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:40:59 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+18/05/18 21:40:59 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+18/05/18 21:41:01 WARN TaskSetManager: Stage 7 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:03 WARN TaskSetManager: Stage 9 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:05 WARN TaskSetManager: Stage 11 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:06 WARN TaskSetManager: Stage 13 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:10 WARN TaskSetManager: Stage 15 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:11 WARN TaskSetManager: Stage 17 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:13 WARN TaskSetManager: Stage 19 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:15 WARN TaskSetManager: Stage 21 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:16 WARN TaskSetManager: Stage 23 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:18 WARN TaskSetManager: Stage 25 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:19 WARN TaskSetManager: Stage 27 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:21 WARN TaskSetManager: Stage 29 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:23 WARN TaskSetManager: Stage 31 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:24 WARN TaskSetManager: Stage 33 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:26 WARN TaskSetManager: Stage 35 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:27 WARN TaskSetManager: Stage 37 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:29 WARN TaskSetManager: Stage 39 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:31 WARN TaskSetManager: Stage 41 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:33 WARN TaskSetManager: Stage 43 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:35 WARN TaskSetManager: Stage 45 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:37 WARN TaskSetManager: Stage 47 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:38 WARN TaskSetManager: Stage 49 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:40 WARN TaskSetManager: Stage 51 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:41 WARN TaskSetManager: Stage 53 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:44 WARN TaskSetManager: Stage 55 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:46 WARN TaskSetManager: Stage 57 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:47 WARN RowMatrix: The input data was not directly cached, which may hurt performance if its parent RDDs are also uncached.
+18/05/18 21:41:47 WARN TaskSetManager: Stage 59 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:41:50 WARN TaskSetManager: Stage 61 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:43:32 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+18/05/18 21:43:32 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK
+18/05/18 21:44:56 WARN TaskSetManager: Stage 63 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:44:56 WARN TaskSetManager: Stage 64 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:44:56 WARN TaskSetManager: Stage 65 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:44:59 WARN TaskSetManager: Stage 67 contains a task of very large size (608 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:48:06 WARN TaskSetManager: Stage 69 contains a task of very large size (120458 KB). The maximum recommended task size is 100 KB.
+18/05/18 21:48:10 WARN SparkEnv: Exception while deleting Spark temp dir: /data/act17xs/tmp/spark-4f33a16a-ca37-4998-ac7a-4c2fcac2f717/userFiles-a09e93b6-d86f-4910-859c-6825a7f3fe6f
+java.io.IOException: Failed to delete: /data/act17xs/tmp/spark-4f33a16a-ca37-4998-ac7a-4c2fcac2f717/userFiles-a09e93b6-d86f-4910-859c-6825a7f3fe6f
+	at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1070)
+	at org.apache.spark.SparkEnv.stop(SparkEnv.scala:103)
+	at org.apache.spark.SparkContext$$anonfun$stop$11.apply$mcV$sp(SparkContext.scala:1940)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1357)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1939)
+	at org.apache.spark.sql.SparkSession.stop(SparkSession.scala:708)
+	at Exercise1$.main(exercise1.scala:77)
+	at Exercise1.main(exercise1.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.spark.deploy.JavaMainApplication.start(SparkApplication.scala:52)
+	at org.apache.spark.deploy.SparkSubmit$.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:879)
+	at org.apache.spark.deploy.SparkSubmit$.doRunMain$1(SparkSubmit.scala:197)
+	at org.apache.spark.deploy.SparkSubmit$.submit(SparkSubmit.scala:227)
+	at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:136)
+	at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+18/05/18 21:48:11 ERROR ShutdownHookManager: Exception while deleting Spark temp dir: /data/act17xs/tmp/spark-4f33a16a-ca37-4998-ac7a-4c2fcac2f717
+java.io.IOException: Failed to delete: /data/act17xs/tmp/spark-4f33a16a-ca37-4998-ac7a-4c2fcac2f717
+	at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1070)
+	at org.apache.spark.util.ShutdownHookManager$$anonfun$1$$anonfun$apply$mcV$sp$3.apply(ShutdownHookManager.scala:65)
+	at org.apache.spark.util.ShutdownHookManager$$anonfun$1$$anonfun$apply$mcV$sp$3.apply(ShutdownHookManager.scala:62)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.apache.spark.util.ShutdownHookManager$$anonfun$1.apply$mcV$sp(ShutdownHookManager.scala:62)
+	at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:216)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(ShutdownHookManager.scala:188)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188)
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply$mcV$sp(ShutdownHookManager.scala:188)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188)
+	at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178)
+	at org.apache.hadoop.util.ShutdownHookManager$1.run(ShutdownHookManager.java:54)
+
+real	7m34.604s
+user	9m18.123s
+sys	1m20.869s
