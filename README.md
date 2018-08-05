@@ -1,2 +1,0 @@
-# SCALA
-THE scala project
